@@ -1,0 +1,9 @@
+# ninja log v5
+21	561	7621777633308613	CMakeFiles/miniOS.dir/fcb.cpp.obj	9449494515b05539
+7	646	7621777633345608	CMakeFiles/miniOS.dir/main.cpp.obj	d4be4608df22a51c
+15	748	7621777635172057	CMakeFiles/miniOS.dir/os.cpp.obj	c9199898376bbe0b
+749	3215	7621777659598305	miniOS.exe	7feeff0293fe42be
+14	944	7621791840679772	CMakeFiles/miniOS.dir/main.cpp.obj	d4be4608df22a51c
+29	947	7621791840709796	CMakeFiles/miniOS.dir/fcb.cpp.obj	9449494515b05539
+21	1177	7621791842989064	CMakeFiles/miniOS.dir/os.cpp.obj	c9199898376bbe0b
+1177	1464	7621791845409192	miniOS.exe	7feeff0293fe42be
