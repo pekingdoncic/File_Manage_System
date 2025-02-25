@@ -1,5 +1,6 @@
 # 操作系统课程设计（文件管理系统）
 
+![1](https://github.com/user-attachments/assets/17e86020-4207-4b5d-a114-7e469c32cf3a)
 
 
 ## 文档部分说明：
@@ -32,10 +33,12 @@ docs文件夹中包含了两个文档，第一个是关于任务的详细说明�
 ​	为了避免多个线程同时访问文件时的冲突，本系统采用互斥锁机制来实现线程间的同步和互斥访问。通过定义了一个名为fileMutex 的互斥锁对象，并在涉及对文件的操作代码块中使用该锁来确保同一时间只有一个线程可以访问文件。
 
 **实现效果**如下图所示：
+![1](https://github.com/user-attachments/assets/467a44b0-96ec-450a-8d5e-1fe29f9f0a6b)
 
 
 
 在一个里面创建一个新的文件，另外一个会自动更新：
+![3](https://github.com/user-attachments/assets/984af6d9-27b2-46e7-919d-fe9535423256)
 
 
 
